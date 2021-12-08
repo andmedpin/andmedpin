@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working as a Game Audio TA at VFS
+- 🌱 I’m currently learning Tech Arts at BCIT
+- 💬 Ask me about Indie Games, Studio Ghibli Films, Food, and Travel 
+- 😄 Pronouns: He/Him
+
 <!--
 **andmedpin/andmedpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
