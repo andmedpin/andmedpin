@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! 👋
 
 
 - 🔭 I’m currently working as a Game Audio TA at VFS
