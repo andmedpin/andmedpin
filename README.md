@@ -9,8 +9,8 @@ My name is Andres, I’m a Technical Sound Designer with a special interest and 
 
 ---
 
-- 🔭 I’m currently working as a **Game Audio TA** at **VFS**
-- 🌱 I’m currently learning **Tech Arts** at **BCIT**
+- 🔭 I’m currently working as a **Game Audio TA** at **Vancouver Film School**
+- 🌱 I’m currently learning **Tech Arts** at **British Columbia Institute of Technology**
 - 💬 Ask me about Indie Games, Studio Ghibli Films, Food, and Travel 
 - 😄 Pronouns: He/Him
 <br /> 
