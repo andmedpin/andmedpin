@@ -4,8 +4,9 @@
 
 My name is Andres, I’m a Technical Sound Designer with a special interest and passion for audio, games, scripting, interactive media, and art. 
 
-[Twitter](https://twitter.com/andmedpin) <br /> 
-[LinkedIn](https://www.linkedin.com/in/andmedpin/) <br /> 
+#### Connect with me on:
+- [Twitter](https://twitter.com/andmedpin) <br /> 
+- [LinkedIn](https://www.linkedin.com/in/andmedpin/) <br /> 
 
 ---
 
