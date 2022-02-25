@@ -9,14 +9,18 @@ My name is Andres, I’m a Technical Sound Designer with a special interest and 
 - 💬 Ask me about Indie Games, Studio Ghibli Films, Food, and Travel 
 - 😄 Pronouns: He/Him
 
-#### Technologies:
 ---
 
+#### Technologies:
+<p align="center">
+  <img alt="Wwise" width="38px" src="assets/wwise.png" />
+</p>
+
 #### Other links:
----
 - [Gitlab](https://gitlab.com/andmedpin) <br /> 
 - [Twitter](https://twitter.com/andmedpin) <br /> 
 - [LinkedIn](https://www.linkedin.com/in/andmedpin/) <br /> 
+
 <!--
 **andmedpin/andmedpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
