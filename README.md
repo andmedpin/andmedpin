@@ -2,20 +2,22 @@
 
 ### Hello! 👋🏼
 
-My name is Andres, I’m a Technical Sound Designer with a special interest and passion for audio, games, scripting, interactive media, and art. 
+My name is Andres, I’m a Technical Sound Designer with a special interest and passion for audio, games, scripting, interactive media, and art. <br /> 
 
+- 🔭 I’m currently working as a **Game Audio Teaching Assistant** at **Vancouver Film School**
+- 🌱 I’m currently learning **Tech Arts** at **British Columbia Institute of Technology**
+- 💬 Ask me about Indie Games, Studio Ghibli Films, Food, and Travel 
+- 😄 Pronouns: He/Him
+
+<br /> 
+
+---
 #### Other links:
 - [Gitlab](https://gitlab.com/andmedpin) <br /> 
 - [Twitter](https://twitter.com/andmedpin) <br /> 
 - [LinkedIn](https://www.linkedin.com/in/andmedpin/) <br /> 
 
 ---
-
-- 🔭 I’m currently working as a **Game Audio Teaching Assistant** at **Vancouver Film School**
-- 🌱 I’m currently learning **Tech Arts** at **British Columbia Institute of Technology**
-- 💬 Ask me about Indie Games, Studio Ghibli Films, Food, and Travel 
-- 😄 Pronouns: He/Him
-<br /> 
 <!--
 **andmedpin/andmedpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
