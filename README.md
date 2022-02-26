@@ -8,13 +8,31 @@ My name is Andres, I’m a Technical Sound Designer with a special interest and 
 - 💬 Ask me about Indie Games, Studio Ghibli Films, Food, and Travel 
 - 😄 Pronouns: He/Him
 
-#### Other links:
+#### Other Links
 - [Gitlab](https://gitlab.com/andmedpin) <br /> 
 - [Twitter](https://twitter.com/andmedpin) <br /> 
 - [LinkedIn](https://www.linkedin.com/in/andmedpin/) <br /> 
 
 ---
 
+### Technologies 🛰
+
+**Technical Sound Design:** 
+<p align="center">
+Wwise &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; FMOD &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Unreal Engine 4 &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Unity
+</p>
+
+**Game Dev:**
+<p align="center">
+Git &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Sourcetree &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Rider &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; PyCharm &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Trello
+</p>
+
+**Aditional Skills:**
+<p align="center">
+Basic Python, C#, and C++ &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; Autodesk Maya
+</p>
+
+<!--
 #### Technologies:
 <p align="center">
   <img alt="Wwise" width="90px" src="assets/wwise.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,11 +50,6 @@ My name is Andres, I’m a Technical Sound Designer with a special interest and 
   <img alt="Trello" width="110px" src="assets/trello.png" />
 </p>
 
-#### Aditional Skills:
-- Basic Python, C#, and C++
-- Autodesk Maya
-
-<!--
 **andmedpin/andmedpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
