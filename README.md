@@ -1,7 +1,6 @@
 ## andmedpin's Github 🌌
 
 ### Hello! 👋🏼
----
 My name is Andres, I’m a Technical Sound Designer with a special interest and passion for audio, games, scripting, interactive media, and art. <br /> 
 
 - 🔭 I’m currently working as a **Game Audio Teaching Assistant** at **Vancouver Film School**
