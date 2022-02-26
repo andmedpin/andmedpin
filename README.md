@@ -13,7 +13,8 @@ My name is Andres, I’m a Technical Sound Designer with a special interest and 
 
 #### Technologies:
 <p align="center">
-  <img alt="Wwise" width="50px" src="assets/wwise.png" />
+  <img alt="Wwise" width="75px" src="assets/wwise.png" />
+  <img alt="Unity" width="75px" src="assets/unity.png" />
 </p>
 
 #### Other links:
