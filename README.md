@@ -17,20 +17,12 @@ My name is Andres, I’m a Technical Sound Designer with a special interest and 
 
 ### Technologies 🛰
 
-<h4 align="center">Technical Sound Design</h4>
-<p align="center">  
-  Wwise &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; FMOD &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Unreal Engine 4 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Unity
-</p>
+- **Technical Sound Design:** &nbsp; Wwise &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; FMOD &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Unreal Engine 4 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Unity
 
-<h4 align="center">Game Dev </h4>
-<p align="center">
-Git &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Sourcetree &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Rider &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PyCharm &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Trello
-</p>
+- **Game Dev:** &nbsp; Git &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Sourcetree &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Rider &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; PyCharm &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Trello
 
-<h4 align="center">Aditional Skills </h4>
-<p align="center">
-Basic Python, C#, and C++ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Autodesk Maya
-</p>
+- **Aditional Skills:** &nbsp; Basic Python, C#, and C++ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Autodesk Maya
+
 <!--
 #### Technologies:
 <p align="center">
