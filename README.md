@@ -24,7 +24,7 @@ My name is Andres, I’m a Technical Sound Designer with a special interest and 
   <img alt="Unreal Engine" width="90px" src="assets/ue.png" />
   <br />
   <br />
-  <img alt="Git" width="75px" src="assets/git.png" /> &nbsp;&nbsp;
+  <img alt="Git" width="75px" src="assets/gitblack.png" /> &nbsp;&nbsp;
   <img alt="Rider" width="95px" src="assets/rider.png" /> &nbsp;&nbsp;
   <img alt="PyCharm" width="130" src="assets/pycharm.png" /> &nbsp;&nbsp;
   <img alt="Sourcetree" width="130px" src="assets/sourcetree.png" /> &nbsp;&nbsp;
