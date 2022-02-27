@@ -19,7 +19,7 @@ My name is Andres, I’m a Technical Sound Designer with a special interest and 
 
 - **🌉 Technical Sound Design:** &nbsp; Unreal Engine 4 &nbsp;|&nbsp; Unity &nbsp;|&nbsp; Wwise &nbsp;|&nbsp; FMOD
 - **🏙 Game Dev:** &nbsp; Git &nbsp;|&nbsp; Sourcetree &nbsp;|&nbsp; Rider &nbsp;|&nbsp; PyCharm &nbsp;|&nbsp; Trello
-- **🗾 Aditional Skills:** &nbsp; Basic Python, C#, and C++ &nbsp;|&nbsp; Autodesk Maya
+- **🗾 Aditional Skills:** &nbsp; Basic Scripting with Python, C#, and C++ &nbsp;|&nbsp; Basic Modeling with Autodesk Maya
 
 <!--
 #### Technologies:
