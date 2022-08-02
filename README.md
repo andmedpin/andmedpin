@@ -3,13 +3,12 @@
 ### Hello! 👋🏼
 My name is Andres, I’m a Technical Sound Designer with a special interest and passion for audio, games, scripting, interactive media, and art. <br /> 
 
-- 🔭 I’m currently working as a **Game Audio Teaching Assistant** at **Vancouver Film School**
-- 🌱 I’m currently learning **Tech Arts** at **British Columbia Institute of Technology**
+- 🔭 I’m currently working as an **Independent Contractor** for **Game Studios**, and a **Game Audio Teaching Assistant** at **Vancouver Film School**
+- 🌱 I just graduated from the **Technical Arts Diploma** at **British Columbia Institute of Technology**
 - 💬 Ask me about Indie Games, Studio Ghibli Films, Food, and Travel 
 - 😄 Pronouns: He/Him
 
 #### Other Links
-- [Gitlab](https://gitlab.com/andmedpin) <br /> 
 - [Twitter](https://twitter.com/andmedpin) <br /> 
 - [LinkedIn](https://www.linkedin.com/in/andmedpin/) <br /> 
 
@@ -17,9 +16,9 @@ My name is Andres, I’m a Technical Sound Designer with a special interest and 
 
 ### Skills and Tools 🛰
 
-- **🌉 Technical Sound Design:** &nbsp; Unreal Engine 4 &nbsp;|&nbsp; Unity &nbsp;|&nbsp; Wwise &nbsp;|&nbsp; FMOD
-- **🏙 Game Dev:** &nbsp; Git &nbsp;|&nbsp; Sourcetree &nbsp;|&nbsp; Rider &nbsp;|&nbsp; PyCharm &nbsp;|&nbsp; Trello
-- **🗾 Aditional Skills:** &nbsp; Basic Scripting with Python, C#, and C++ &nbsp;|&nbsp; Basic Modeling with Autodesk Maya
+- **🌉 Technical Sound Design:** &nbsp; Unreal Engine &nbsp;|&nbsp; Unity &nbsp;|&nbsp; Wwise &nbsp;|&nbsp; FMOD
+- **🏙 Game Dev:** &nbsp; Git &nbsp;|&nbsp; Sourcetree &nbsp;|&nbsp; Rider &nbsp;|&nbsp; PyCharm &nbsp;|&nbsp; Jira
+- **🗾 Aditional Skills:** &nbsp; Basic Scripting with Python, C#, and C++ &nbsp;|&nbsp; Basic Modeling and Scripting in Autodesk Maya
 
 <!--
 #### Technologies:
