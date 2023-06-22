@@ -4,7 +4,7 @@
 My name is Andres, I’m a Technical Sound Designer with a special interest and passion for audio, games, scripting, interactive media, and art. <br /> 
 
 - 🔭 I’m currently working as a full time **Technical Sound Designer** contractor for **A Shell in the Pit**, and as a **Game Audio Mentor** at **Vancouver Film School**
-- 🌱 I just graduated from the **Technical Arts Diploma** at **British Columbia Institute of Technology**
+- 🌱 I graduated from the **Technical Arts Advanced Diploma** at **BCIT** and I'm currently studying a **M.SC. in Computer Science** at **IU** 
 - 💬 Ask me about Indie Games, Mechanical Keyboards, Studio Ghibli Films, Food, and Travel 
 - 😄 Pronouns: He/Him
 
@@ -17,7 +17,7 @@ My name is Andres, I’m a Technical Sound Designer with a special interest and 
 ### Skills and Tools 🛰
 
 - **🌉 Technical Sound Design:** &nbsp; Unreal Engine &nbsp;|&nbsp; Unity &nbsp;|&nbsp; Wwise &nbsp;|&nbsp; FMOD
-- **🏙 Game Dev:** &nbsp; Git &nbsp;|&nbsp; Plastic SCM &nbsp;|&nbsp; Rider &nbsp;|&nbsp; PyCharm &nbsp;|&nbsp; Jira
+- **🏙 Game Dev:** &nbsp; Git &nbsp;|&nbsp; Perforce &nbsp;|&nbsp; Rider &nbsp;|&nbsp; PyCharm &nbsp;|&nbsp; Jira
 - **🗾 Aditional Skills:** &nbsp; Scripting with Python, C#, and C++ &nbsp;|&nbsp; Basic Modeling and Scripting in Autodesk Maya
 
 <!--
